@@ -1,7 +1,7 @@
 ### Hi there 👋
 ${N3V3R_IS_T00_L4t3}
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DamianRz)](https://github.com/anuraghazra/github-readme-stats)
+[![DamianRZgithub stats](https://github-readme-stats.vercel.app/api?username=DamianRz)](https://github.com/DamianRz/github-readme-stats)
 
 <!--
 **DamianRz/DamianRz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
