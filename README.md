@@ -1,8 +1,8 @@
 💻TheRefactorMan🕶
 
-[![DamianRZgithub stats](https://github-readme-stats.vercel.app/api?username=DamianRz&hide_border=true)](https://github.com/DamianRz/github-readme-stats)
+[![Damian Rz Stats 🍕](https://github-readme-stats.vercel.app/api?username=DamianRz&hide_border=true)](https://github.com/DamianRz/github-readme-stats)
 
-<div style="display:flex;align-items:center;background-color:red">
+<div">
 <p>Hello</p>
 </div>
 
