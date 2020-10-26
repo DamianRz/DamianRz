@@ -1,6 +1,6 @@
 💻TheRefactorMan🕶
 
-[![DamianRZgithub stats](https://github-readme-stats.vercel.app/api?username=DamianRz&theme=radical&hide_border=true&title_color="#ffffff")](https://github.com/DamianRz/github-readme-stats)
+[![DamianRZgithub stats](https://github-readme-stats.vercel.app/api?username=DamianRz&custom_title="DamianRz Stats 🍕"&theme=radical&hide_border=true&title_color="#fff")](https://github.com/DamianRz/github-readme-stats)
 
 <!--
 **DamianRz/DamianRz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
