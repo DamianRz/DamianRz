@@ -1,10 +1,3 @@
 💻TheRefactorMan🕶
 
-[![Damian Rz Stats 🍕](https://github-readme-stats.vercel.app/api?username=DamianRz&hide_border=true)](https://github.com/DamianRz/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+[![Damian Rz Stats 🍕](https://github-readme-stats.vercel.app/api?username=DamianRz&theme=dark&show_icons=true)
